@@ -1,3 +1,13 @@
-style.css
-body {background-color:blue;}
+body{
+  text-align: center;
+  background: image(WS_GrillMaster_Howto_Cheeseburger_143.jpg);
+  background-size: cover;
+  color: #fff;
+  font-family:Helvetica;
+  }
+hr{
+  width: 200px;
+  p{
+    font-size: 22px;
+}
 
