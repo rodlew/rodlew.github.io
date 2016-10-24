@@ -1,7 +1,7 @@
 body{
 text-align: center;
-background: image("WS_GrillMaster_Howto_Cheeseburger_143.jpg");
-background-size: cover;
+background:url ("WS_GrillMaster_Howto_Cheeseburger_143.jpg");
+background-size: 100%
 
  }
   
