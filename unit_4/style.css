@@ -12,7 +12,16 @@ body{
     font-family:Helvetica;
   }
 
+<style type="text/css">body{ color:red;
+	background-size: cover;
+	}
 
+h1{color:black;
+
+}
+
+body{background-color: white;
+}
     
 }
  
