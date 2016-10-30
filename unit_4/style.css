@@ -1,5 +1,11 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Bangers');
 
-<link href="https://fonts.googleapis.com/css?family=Bangers" rel="stylesheet">
+h1{ 
+	text-align: left;
+	font-family: 'Bangers',cursive;
+
+}
 
 
 
@@ -9,7 +15,7 @@ body {
     background: url(http://demandware.edgesuite.net/aaxm_prd/on/demandware.static/-/Sites-Traeger-Library/default/dwcb65a326/images/recipes/0216_smoked_whiskey_burger_RE_HE.jpg);
     background-size: 80px 60px;
     background-repeat: no-repeat;
-    text-align: center;
+    text-align: left;
 
 
     
