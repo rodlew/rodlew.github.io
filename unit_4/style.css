@@ -4,6 +4,12 @@
 h1{ 
 	text-align: left;
 	font-family: 'Bangers',cursive;
+p {
+	font-family: serif;
+	font-size: 18px;
+	line-height: 2em
+
+}
 
 }
 
