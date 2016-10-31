@@ -1,14 +1,11 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=Bangers');
-
-
-
 body{
-	
-    background: url ("https://assets3.thrillist.com/v1/image/1751901/size/tmg-article_default_mobile.jpg");
-    background-size: cover;
-
+  text-align: center;
+  background: url("https://assets3.thrillist.com/v1/image/1751901/size/tmg-article_default_mobile.jpg");
+  background-size:cover;
+  color: #fff;
+  font-family:Helvetica;
   }
+
 
 
  
