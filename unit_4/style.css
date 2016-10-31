@@ -1,12 +1,12 @@
 body{
-  text-align: center;
+  
   background: url("https://assets3.thrillist.com/v1/image/1751901/size/tmg-article_default_mobile.jpg");
-  background-size:cover;
-  color: #fff;
-  font-family:Helvetica;
+  background-size:100px;
+  background-position: center;
+  background-attachment: fixed;
   }
 
-
+}
 
  
 
