@@ -1,5 +1,18 @@
-border-style: {
-
-	background-color: red;
-	border: 15px 15px 0;
+body{
+  
+  background: url("http://demandware.edgesuite.net/aaxm_prd/on/demandware.static/-/Sites-Traeger-Library/default/dwcb65a326/images/recipes/0216_smoked_whiskey_burger_RE_HE.jpg");
+  background-size:cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-family:audiowide;
+  font-size: 1.5em
 }
+  
+
+
+
+ 
+
+
