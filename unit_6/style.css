@@ -41,11 +41,12 @@ footer{
 #wrap {min-height: 100%;}
 
 #main {overflow:auto;
-  padding-bottom: 200px;}  /* must be same height as the footer */
+  padding-bottom: 140px;}  /* must be same height as the footer */
 
 #footer {position: relative;
-  margin-top: -200px; /* negative value of footer height */
-  height: 200px;
-  clear:both;} 
+  margin-top: -140px; /* negative value of footer height */
+  height: 140px;
+  clear:both;
+} 
 
 
