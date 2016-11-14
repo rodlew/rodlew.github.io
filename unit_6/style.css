@@ -39,5 +39,8 @@ footer{
   margin-top: -6px;
   height: 6px;
   clear: both;
+  overflow: auto;
+  padding-bottom: 6px;
 
 }
+
