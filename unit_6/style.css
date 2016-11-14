@@ -36,6 +36,8 @@ footer{
   background-color: #333;
   border: 1px black solid;
   padding: 20px;
-  margin-bottom: -142px;
+  margin-top: -142px;
+  height: 142px;
+  clear: both;
 
 }
