@@ -4,7 +4,7 @@ body{
   background-size:cover;
   background-position: center;
   background-attachment: fixed;
-  background-repeat: no-repeat;
+  background-repeat: 480px;
   color: #fff;
   font-family:audiowide;
   font-size: 1.5em
