@@ -36,11 +36,16 @@ footer{
   background-color: #333;
   border: 1px black solid;
   padding: 20px;
-  margin-top: px;
-  height: px;
-  clear: both;
-  overflow: auto;
-  padding-bottom: px;
-
+  
 }
+#wrap {min-height: 100%;}
+
+#main {overflow:auto;
+  padding-bottom: 180px;}  /* must be same height as the footer */
+
+#footer {position: relative;
+  margin-top: -180px; /* negative value of footer height */
+  height: 180px;
+  clear:both;} 
+
 
