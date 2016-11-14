@@ -1,0 +1,50 @@
+body{
+  
+  background: url("http://demandware.edgesuite.net/aaxm_prd/on/demandware.static/-/Sites-Traeger-Library/default/dwcb65a326/images/recipes/0216_smoked_whiskey_burger_RE_HE.jpg");
+  background-size:cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-family:audiowide;
+  font-size: 1.5em
+}
+  
+header{
+     background-color: green
+     border: 1px black solid;
+     padding: 20px;
+
+
+}
+article{
+background-color: white;
+     border: 1px black solid;
+     padding: 20px;
+
+
+}
+
+aside{
+
+	background-color: #ffc66a;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+
+ nav{
+
+ 	background-color: #e8c66a;
+ 	border: 1px black solid;
+ 	padding: 20px;
+
+ }
+footer{
+
+	background-color: #ff957e;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+
