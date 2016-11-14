@@ -33,5 +33,9 @@ li a:hover {
     background-color: #111;
 }
 footer{
-border: solid block;
+
+  background-color: #ff957e;
+  border: 1px black solid;
+  padding: 20px;
+
 }
