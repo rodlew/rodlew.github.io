@@ -36,11 +36,11 @@ footer{
   background-color: #333;
   border: 1px black solid;
   padding: 20px;
-  margin-top: -6px;
-  height: 6px;
+  margin-top: -180px;
+  height: 180px;
   clear: both;
   overflow: auto;
-  padding-bottom: 6px;
+  padding-bottom: 180px;
 
 }
 
