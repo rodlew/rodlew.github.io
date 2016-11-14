@@ -14,15 +14,6 @@ header{
      background-color: black;
      border: 1px black solid;
      padding: 20px;
-
-
-}
-article{
-background-color: white;
-     border: 1px black solid;
-     padding: 20px;
-
-
 }
 
 aside{
@@ -37,7 +28,7 @@ aside{
 
  	background-color: white;
  	border: 1px black solid;
- 	padding: 20px;
+ 	padding: 8px;
 
  }
 footer{
