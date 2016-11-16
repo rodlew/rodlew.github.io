@@ -32,10 +32,10 @@ footer{
   
   
 }
-#wrap {min-height: 50%;}
+#wrap {min-height: 100%;}
 
 #main {overflow:auto;
-  padding-bottom: 50px;}  /* must be same height as the footer */
+  padding-bottom: 960px;}  /* must be same height as the footer */
 
 #footer {position: relative;
   margin-top: -50px; /* negative value of footer height */
