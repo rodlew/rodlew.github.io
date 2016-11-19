@@ -6,7 +6,22 @@
 {
 position: relative;
 width: 3040px;
+animation-name:frames;
+animation-duration:5s;
 }
+#sliderbox img{
 
+	float: left;
+}
+@keyframes frames{
+
+	from{
+		left: 0px;
+	}
+	to{
+		left: -3040px
+	}
+	
+}
 
 
