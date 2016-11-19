@@ -4,14 +4,14 @@
 #sliderbox{
 position: relative;
 width: 3040px;
-animation-name:jatinder;
+animation-name: move;
 animation-duration:1s;
 }
 #sliderbox img{
 
 	float: left;
 }
-@keyframes  jatinder{
+ @keyframes move{
 
 	from{
 		left: 0px;
