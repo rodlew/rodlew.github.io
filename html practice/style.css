@@ -1,19 +1,17 @@
-#outerbox
-{
+#outerbox{
 
 }
-#sliderbox
-{
+#sliderbox{
 position: relative;
 width: 3040px;
-animation-name:frames;
-animation-duration:5s;
+animation-name:jatinder;
+animation-duration:1s;
 }
 #sliderbox img{
 
 	float: left;
 }
-@keyframes frames{
+@keyframes  jatinder{
 
 	from{
 		left: 0px;
