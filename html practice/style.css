@@ -3,7 +3,7 @@
 }
 #sliderbox{
 position: relative;
-width: 3040px;
+width: 700px;
 animation-name: move;
 animation-duration:20s;
 }
