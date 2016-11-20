@@ -19,7 +19,9 @@ animation-duration:20s;
 	to{
 		left: -3040px
 	}
-	
+	.box{
+		border: 1px solid black;
+	}
 }
 
 
