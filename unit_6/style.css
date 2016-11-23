@@ -72,4 +72,28 @@ footer{
     clear: both;
     height: 0;
 }
+#outerbox{
 
+}
+#sliderbox{
+position: relative;
+width: 3040px;
+animation-name: move;
+animation-duration:20s;
+}
+#sliderbox img{
+
+  float: left;
+}
+ @keyframes move{
+
+  from{
+    left: 0px;
+  }
+  to{
+    left: -3040px
+  }
+  .boxed{
+    border: 1px solid black;
+  }
+}
