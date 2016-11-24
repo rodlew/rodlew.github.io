@@ -13,12 +13,12 @@ body{
 
  }
 
- aside{
+ aside .class {
 
   background-color: #ffc66a;
   border: 1px black solid;
   padding: 20px;
-  position: left;
+  position: relative;
 
  }
 
