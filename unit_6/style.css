@@ -18,6 +18,7 @@ body{
   background-color: #ffc66a;
   border: 1px black solid;
   padding: 20px;
+  position: left;
 
  }
 
@@ -28,19 +29,6 @@ body{
     padding: 20px;
 
   } 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ul{
  list-style-type: none;
  margin: 0;
