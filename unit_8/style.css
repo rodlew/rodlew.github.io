@@ -24,9 +24,10 @@ body{
 
   nav{
 
-    background-color: #e8c66a;
+    background-color: #pink;
     border: 1px black solid;
     padding: 20px;
+    position: left;
 
   } 
 ul{
@@ -46,6 +47,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    position: left;
 }
 
 li a:hover {

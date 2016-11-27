@@ -24,10 +24,10 @@ body{
 
   nav{
 
-    background-color: #e8c66a;
+    background-color: #pink;
     border: 1px black solid;
     padding: 20px;
-    position: left;
+    float: left;
 
   } 
 ul{
