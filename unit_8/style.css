@@ -8,23 +8,23 @@ body{
  article{
  background-color: white;
       border: 1px black solid;
-      padding: 20px;
+      padding: 50px;
 
 
  }
 
  aside{
 
-  background-color: #ffc66a;
-  border: 1px black solid;
-  padding: 20px;
-  position: relative;
+  background-color: rgb(black);
+  border: 50px solid black;
+  padding: 50px;
+  position: static;
 
  }
 
   nav{
 
-    background-color: #pink;
+    background-color: red;
     border: 1px black solid;
     padding: 20px;
     position: left;
@@ -47,7 +47,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    position: left;
+    position: center;
 }
 
 li a:hover {
@@ -56,7 +56,7 @@ li a:hover {
 footer{
   background-color: grey;
   border: 1px black solid;
-  
+  padding: 50px;
   
 }
 #wrap {min-height: 100%;}
