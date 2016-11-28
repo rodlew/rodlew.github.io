@@ -6,18 +6,16 @@ body{
 }
  }
  article{
- background-color: white;
-      border: 1px black solid;
-      padding: 50px;
-
-
- }
+ background-color: rgb(black);
+      border: 5px solid grey;
+      padding: 20px;
+}
 
  aside{
 
   background-color: rgb(black);
   border: 5px solid grey;
-  padding: 50px;
+  padding: 20px;
   position: static;
 
  }
@@ -25,8 +23,8 @@ body{
   nav{
 
     background-color: red;
-    border: 50px grey solid;
-    padding: 50px;
+    border: 5px grey solid;
+    padding: 20px;
     position: left;
 
   } 
@@ -39,7 +37,7 @@ ul{
  }
 li{
 
-  float:left;
+  float:center;
 }
 li a {
     display: block;
@@ -56,7 +54,7 @@ li a:hover {
 footer{
   background-color: grey;
   border: 1px black solid;
-  padding: 50px;
+  padding: 20px;
   
 }
 #wrap {min-height: 100%;}
