@@ -2,6 +2,8 @@
 <html>
 <link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 <style type="text/css">body{ color:red}
 
 h1{color:brightred;
@@ -13,15 +15,14 @@ h2{
 a.test {
     font-weight: bold;
 }
+
+
 </style>
 
 <title>
 Burger World
 </title>
 <head>
- 
-
-
 <H1>
 <b>Burger World
 </H1>
@@ -32,17 +33,42 @@ Burger World
   <li> <a href="#about">Contact</a> </li>
     </ul>
   </nav>
-  </HEAD>
+</HEAD>
 <body>
-  <wrap>
-  <aside class="left">
-  <p>hello</p>
-  </aside>
+  <div class="w3-content w3-display-container">
+    <img class="mySlides" src="http://www.venturouscouple.com/wp-content/uploads/2015/06/Bocado.jpg" style="width:100%">
+    <img class="mySlides" src="http://www.venturouscouple.com/wp-content/uploads/2015/06/Bocado.jpg" style="width:100%">
+    <img class="mySlides" src="http://www.venturouscouple.com/wp-content/uploads/2015/06/Bocado.jpg" style="width:100%">
+    <img class="mySlides" src="http://media1.s-nbcnews.com/j/MSNBC/Components/Video/201605/tdy_geist_burger_160523.today-inline-vid-featured-desktop.jpg" style="width:100%">
+    <a class="w3-btn-floating w3-display-left" onclick="plusDivs(-1)">&#10094;</a>
+    <a class="w3-btn-floating w3-display-right" onclick="plusDivs(1)">&#10095;</a>
+    
+  </div>
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
 
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
+</body>
 <footer>
   <p>hello</p>
 </footer>
-</warp>
+
 
 </body>
 </html>

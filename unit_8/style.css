@@ -37,7 +37,7 @@ ul{
  }
 li{
 
-  float:center;
+  float:left;
 }
 li a {
     display: block;
@@ -45,7 +45,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    position: center;
+    position:left;
 }
 
 li a:hover {
@@ -55,9 +55,9 @@ footer{
   background-color: grey;
   border: 1px black solid;
   padding: 20px;
-  
 }
-#wrap {min-height: 100%;}
+
+  ht: 100%;}
 
 #main {overflow:auto;
   padding-bottom: 50px;}  /* must be same height as the footer */
