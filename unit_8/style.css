@@ -97,9 +97,5 @@ footer{
     clear: both;
     height: 0;
 }
-@media  (max-width: 800px) {
-
-  nav {
-    float: none;
-  }
+@media  (max-width: 800px) 
 }
