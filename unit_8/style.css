@@ -54,7 +54,7 @@ li a:hover {
 footer{
   background-color: grey;
   border: 1em black solid;
-  padding: 20em;
+  padding: 5em;
 }
 
   ht: 100%;}
@@ -96,4 +96,10 @@ footer{
     content: " ";
     clear: both;
     height: 0;
+}
+@media  (max-width: 800px) {
+
+  nav {
+    float: none;
+  }
 }
