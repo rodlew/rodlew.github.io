@@ -7,15 +7,15 @@ body{
  }
  article{
  background-color: rgb(black);
-      border: 5px solid grey;
-      padding: 20px;
+      border: 2em solid grey;
+      padding: 2em;
 }
 
  aside{
 
   background-color: rgb(black);
-  border: 5px solid grey;
-  padding: 20px;
+  border: 5em solid grey;
+  padding: 20em;
   position: static;
 
  }
@@ -23,8 +23,8 @@ body{
   nav{
 
     background-color: red;
-    border: 5px grey solid;
-    padding: 20px;
+    border: 1em grey solid;
+    padding: 1em;
     position: left;
 
   } 
@@ -43,7 +43,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 1.4em 1.4em;
     text-decoration: none;
     position:left;
 }
@@ -53,18 +53,18 @@ li a:hover {
 }
 footer{
   background-color: grey;
-  border: 1px black solid;
-  padding: 20px;
+  border: 1em black solid;
+  padding: 20em;
 }
 
   ht: 100%;}
 
 #main {overflow:auto;
-  padding-bottom: 50px;}  /* must be same height as the footer */
+  padding-bottom: 50em;}  /* must be same height as the footer */
 
 #footer {position: relative;
-  margin-top: -50px; /* negative value of footer height */
-  height: 50px;
+  margin-top: -50em; /* negative value of footer height */
+  height: 50em;
   clear:both;
 } 
 
