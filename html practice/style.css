@@ -1,27 +1,3 @@
-#outerbox{
-
+body{
+	background-image: url(http://www.idesignarch.com/wp-content/uploads/Attractive-Prefab-Home-Toby-Long_22.jpg);
 }
-#sliderbox{
-position: relative;
-width: 3040px;
-animation-name: move;
-animation-duration:20s;
-}
-#sliderbox img{
-
-	float: left;
-}
- @keyframes move{
-
-	from{
-		left: 0px;
-	}
-	to{
-		left: -3040px
-	}
-	.boxed{
-		border: 1px solid black;
-	}
-}
-
-
