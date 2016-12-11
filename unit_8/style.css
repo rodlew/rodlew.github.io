@@ -1,19 +1,21 @@
 body{
   
   font-family:audiowide;
-  font-size: 1.5em
-  background-color:solid grey;
-}
+  font-size: 1.5em;
+  background:  grey;
+  header:100%;
+  
+} 
  }
  article{
- background-color: rgb(black);
+ background: red;
       border: 2em solid grey;
       padding: 2em;
 }
 
  aside{
 
-  background-color: rgb(black);
+  background red;
   border: 5em solid grey;
   padding: 20em;
   position: static;
@@ -25,7 +27,7 @@ body{
     background-color: red;
     border: 1em grey solid;
     padding: 1em;
-    position: left;
+    position: relative;
 
   } 
 ul{
@@ -37,7 +39,7 @@ ul{
  }
 li{
 
-  float:left;
+  float:center;
 }
 li a {
     display: block;
@@ -52,8 +54,8 @@ li a:hover {
     background-color: #111;
 }
 footer{
-  background-color: grey;
-  border: 1em black solid;
+  background-color: black;
+  border: 1em grey solid;
   padding: 1em;
 }
 
