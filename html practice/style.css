@@ -1,11 +1,10 @@
 body{
-	background:tan;
+background:url("http://yellowhammernews.com/wp-content/uploads/2013/09/Birmingham1.png");
 font-family: audiowide;
 color: WHITE;
-background-repeat: no-repeat; ;
+background-position:center;
 background-size:cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
 height: 100%
-
-
-}  
-
+}
