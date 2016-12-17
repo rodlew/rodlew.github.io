@@ -1,9 +1,9 @@
 body{
 background:url("http://www.youfixcars.com/images/service-manual-example.jpg.pagespeed.ce.VY9BBD1bYM.jpg");
 font-family: audiowide;
-color: WHITE;
+color: green;
 background-position:center;
-background-size:cover;
+background-size:20em;
 background-repeat: no-repeat;
 background-attachment: fixed;
 height: 100%
