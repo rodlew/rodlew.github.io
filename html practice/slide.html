@@ -1,33 +1,18 @@
 <!DOCTYPE HTML>
 <html>
-<HEAD>
-	<title>My Now Amazing Webpage</title>
-	  <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
-	  <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
-</HEAD>
+<head>
 <body>
-	<div class="slide">
-	    <div>pics/thumb_IMG_0041_1024.jpg </div>
-	    <div>pics/thumb_IMG_0041_1024.jpg</div>
-	    <div>pics/thumb_IMG_0041_1024.jpg</div>
-	  </div>
-
-	  <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-	  <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-	  <script type="text/javascript" src="slick/slick.min.js"></script>
-
-	  <script type="text/javascript">
-	    $(document).ready(function(){
-	      $('.slide').slick({
-	        setting-name: setting-value
-	      });
-	    });
-	  </script>
-
-	  
-	</body>
-	</html>
-					
+	<div id="slideshow">
+        <ul class="slides">
+            <li class="sl"><img class="ss" src="image/a.png" width="191" height="278" alt="Splash Screen" /></li>
+            <li class="sl"><img class="ss" src="image/b.png" width="191" height="278" alt="Select Route" /></li>
+            <li class="sl"><img class="ss" src="image/c.png" width="191" height="278" alt="New Schedule" /></li>
+            <li class="sl"><img class="ss" src="image/d.png" width="191" height="278" alt="Created Routes" /></li>
+            <li class="sl"><img class="ss" src="image/e.png" width="191" height="278" alt="CR" /></li>
+        </ul>
+        <span class="arrow next"></span>
+        <span class="arrow previous"></span>
+    </div>
 
 
 </body>
