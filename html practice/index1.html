@@ -1,0 +1,21 @@
+<!doctypE HTML>
+<html>
+<head>
+<title> Basic function</title>
+<link rel "styleshet" href="css/c03.css"/>
+</head>
+<body>
+<h1>Travelworthy</h1>
+<div id "message">Welcome to our site!<div>
+<script scr="js/basic-function.js"></script>
+</body>
+</html>
+
+<script type="js/basic-function.js">
+var msg ='SIGN UP TO RECIVE OUR NEWSLETTER FOR 10% OFF';
+function updateMessage() {
+ var el = document.getElementById('message');
+ el.textContent = msg;
+}
+updateMessage();
+</script>
