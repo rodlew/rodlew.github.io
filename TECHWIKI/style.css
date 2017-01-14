@@ -1,0 +1,66 @@
+body{
+height: 50px;
+font-family: 'roboto', cursive; 
+font-family: 'Oswald', sans-serif;
+text-align: center;
+background: ;
+
+
+}
+#pic{
+	background:white;
+}
+head{
+border-color: transparent;
+
+
+
+}
+
+h1{
+
+    text-align:center;
+    color:green;
+    font-size: 36pt;
+    
+    }
+
+#center1 
+{
+	height: 900px;
+	background: white;
+	width: 800px;
+	margin-left: 15em;
+	margin-right:10em;
+	
+    
+	
+}
+#center2
+{
+height:1000px;
+background:white;
+width: 800px;
+margin-left: 15em;
+margin-right: 10em;
+
+	
+
+}
+footer{
+background:red;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+li {
+    display: inline;
+}
+span{
+	text-align: center;
+}
