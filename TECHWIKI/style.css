@@ -3,15 +3,16 @@ height: 50px;
 font-family: 'roboto', cursive; 
 font-family: 'Oswald', sans-serif;
 text-align: center;
-background: ;
-
+background: url(http://wvbadbuildings.org/wp-content/uploads/2015/02/tools.jpg); 
+background-repeat:no-repeat;
+background-position: center;
 
 }
 #pic{
 	background:white;
 }
 head{
-border-color: transparent;
+border-color:red;
 
 
 
