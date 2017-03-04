@@ -1,0 +1,86 @@
+<!Doctype html>
+<html>
+<link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
+<style type="text/css">body{ color:red}
+h1{color:brightred;
+}
+h2{
+  color:white;
+}
+a.test {
+    font-weight: bold;
+    text-align: center;
+}
+</style>
+
+<title>
+Burger World
+</title>
+<head>
+<H1>
+<p> Burger World <p>
+</H1>
+  <nav>
+    <ul>
+  <li> <a href="menu.htm">Menu</a> </li>
+  <li> <a href="mailto:roderick.lewis29@gmail.com">
+Contact </a> </a> </li>
+  <li> <a href="locations.htm">Locations</a> </Li>
+  <li> <a href="https://rodlew.github.io/unit_8/index.html">Home</a> </li>
+    </ul>
+  </nav>
+</HEAD>
+<body>
+  <html>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <style>
+  .mySlides {display:none;}
+  </style>
+  <body>
+
+  
+
+  <div class="w3-content w3-section" style="max-width:400px,margin:0;">
+    <img class="mySlides" src="http://bnbjoint.com/wp-content/uploads/2015/04/Thunder_Road_full-300dpi.jpg" style="width:100%">
+    <img class="mySlides" src="http://tokyobestburgers.com/wp-content/uploads/2014/05/Tokyo-Best-Burgers-Header1.jpg" style="width:100%">
+    <img class="mySlides" src="https://media.timeout.com/images/102945700/image.jpg" style="width:100%">
+  </div>
+
+  <script>
+  var myIndex = 0;
+  carousel();
+
+  function carousel() {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      for (i = 0; i < x.length; i++) {
+         x[i].style.display = "none";  
+      }
+      myIndex++;
+      if (myIndex > x.length) {myIndex = 1}    
+      x[myIndex-1].style.display = "block";  
+      setTimeout(carousel, 4000); // Change image every 2 seconds
+  }
+  </script>
+
+  </body>
+  </html>
+  
+<hr>
+
+</body>
+
+<footer>
+  <p>Copyright2016</p>
+
+
+</footer>
+
+
+</body>
+</html>
