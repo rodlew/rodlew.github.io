@@ -10,24 +10,35 @@
 
 <body>
 <div id="text">
-<p>The Obama Foundation<p>
+<p>
+
+
+	"If you're walking down the right path and you're willing to keep walking, 
+	eventually you'll make progress.
+
+	<p>
 </div>
 
 
-<button class="donate">
- Donate
-</button>
+
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="#">About</a>
-  <a href="#">Services</a>
-  <a href="#">Clients</a>
-  <a href="#">Contact</a>
+  
+  <a href="#">OUR STORY</a>
+  <hr>
+  <a href="#">UPDATES</a>
+  <hr>
+  <a href="#">TIMELINE</a>
+  <hr>
+  <a href="#">STAY INFORMED</a>
+  <hr>
+  <button type="button">DONATE</button>
+  <hr>
+
 </div>
 
-
-<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+<span style="font-size:30px;cursor:pointer;top:0;" onclick="openNav()">&#9776;  open</span>
 
 <script>
 function openNav() {
@@ -36,6 +47,7 @@ function openNav() {
 
 function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
+    align:right;
 }
 </script>
 </body>
