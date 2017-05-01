@@ -1,0 +1,13 @@
+body{
+height:;
+font-family:  ; 
+text-align:center;
+background: url(''); 
+background-position:;
+background-repeat:no-repeat; 
+background-size:cover;
+background-color:;
+page width: 1000px;
+text-color:grey;
+
+}
