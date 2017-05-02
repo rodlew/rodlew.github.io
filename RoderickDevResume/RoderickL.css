@@ -1,22 +1,27 @@
 body
 {
-height:300px;
+height:;
 font-family: 'Bungee Inline', cursive; 
 text-align:center;
 background-image:;
-background-color:rgb(40,51,68);
+background-color:rgb(173,255,47);
 background-repeat:no-repeat; 
 background-size:100%;
 background-position: 
-
-
 }
 
+.bigname{
+	font-size: 12em;
+}
+
+
+
 footer
-{position:absolute;
-  height: 20px;
+{
+position:relative;
+  height: 1px;
   width: 100%;
-  bottom:0px;
+  bottom:0;
   background-color:;
   opacity:.4;
 
@@ -26,7 +31,9 @@ footer
 ul{
 float: left;
 width: 100%;
-font-size: 12em;
+font-size:
+text-align:center;
+
 
 }
 
@@ -72,7 +79,9 @@ ul{
  margin: 0;
  padding: 0;
  overflow: hidden;
- background-color: rgb(173,255,47);
+ background-color:;
+ position:;
+
 }
 
 li{
@@ -90,3 +99,5 @@ li a
     text-decoration: none;
     
 }
+
+
