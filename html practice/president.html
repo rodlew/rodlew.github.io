@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="president.css">
+<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
 </head>
 <h1>
 
@@ -11,45 +12,52 @@
 <body>
 <div id="text">
 <p>
+   "You Matter. You Count."
+   -Barrack Obama
+</p>
 
+<!-- /Nav -->
 
-	"If you're walking down the right path and you're willing to keep walking, 
-	eventually you'll make progress.
-
-	<p>
-</div>
-
-
-
-
-<div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  
-  <a href="#">OUR STORY</a>
-  <hr>
-  <a href="#">UPDATES</a>
-  <hr>
-  <a href="#">TIMELINE</a>
-  <hr>
-  <a href="#">STAY INFORMED</a>
-  <hr>
-  <button type="button">DONATE</button>
-  <hr>
-
-</div>
-
-<span style="font-size:30px;cursor:pointer;top:0;" onclick="openNav()">&#9776;  open</span>
 
 <script>
-function openNav() {
-    document.getElementById("mySidenav").style.width = "250px";
-}
+(function () {
 
-function closeNav() {
-    document.getElementById("mySidenav").style.width = "0";
-    align:right;
-}
+    // Create mobile element
+    var mobile = document.createElement('div');
+    mobile.className = 'nav-mobile';
+    document.querySelector('.nav').appendChild(mobile);
+
+    // hasClass
+    function hasClass(elem, className) {
+        return new RegExp(' ' + className + ' ').test(' ' + elem.className + ' ');
+    }
+
+    // toggleClass
+    function toggleClass(elem, className) {
+        var newClass = ' ' + elem.className.replace(/[\t\r\n]/g, ' ') + ' ';
+        if (hasClass(elem, className)) {
+            while (newClass.indexOf(' ' + className + ' ') >= 0) {
+                newClass = newClass.replace(' ' + className + ' ', ' ');
+            }
+            elem.className = newClass.replace(/^\s+|\s+$/g, '');
+        } else {
+            elem.className += ' ' + className;
+        }
+    }
+
+    // Mobile nav function
+    var mobileNav = document.querySelector('.nav-mobile');
+    var toggle = document.querySelector('.nav-list');
+    mobileNav.onclick = function () {
+        toggleClass(this, 'nav-mobile-open');
+        toggleClass(toggle, 'nav-active');
+    };
+})();
 </script>
+
+
+
+
 </body>
 
 

@@ -8,81 +8,51 @@ background-repeat:no-repeat;
 background-position:center;
 background-image:url(); 
 background-repeat:no-repeat;); 
-background-size:cover;
-background-color:;
+background-size:
+
+}
+
+
+#list1{display: inline;
+
 }
 
 
 
-
-.parallax {
-    /* The image used */
-    background-image: url('http://www.space.com/images/i/000/052/695/original/spacex-falcon-9-drone-ship-landing.jpg?interpolation=lanczos-none&downsize=*:1000');
-    background-color: rgb();
-
-
-    /* Full height */
-    height: 100%; 
-
-/* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:100%;
-
-}
 
 
 h1{
 
-    text-align:center;
-    color: rgb(127,255,0);
+    text-align:left;
+    color: rgb(255,0,0);
     font-size: 9em;
-    background-image: url('http://previews.123rf.com/images/lonely11/lonely111202/lonely11120200013/12493458-Abstract-background-circuit-board-Stock-Vector-digital.jpg');
+    background-image: url('http://wvbadbuildings.org/wp-content/uploads/2015/02/tools.jpg');
     background-size:100%;
-    height: 200px;
+    height:600px;
+    margin: 0px auto;
     }
 
-#center1 
-{
-	height: 900px;
-	background: ;
-	width: 800px;
-	margin-left:12em ;
-	margin-right:15em;
-	text-align: center;
-	color:black;
-	
-    
-	
-}
-#center2
-{
-height:1000px;
-background:;
-width: 800px;
-margin-left:12em ;
-margin-right:15em;
 
 
-	
 
-}
+
+
+
+
 footer{
 background:red;
-height: 500px;
-background-image: url('http://assets.internationalchampionscup.com/uploads/sponsor/grey_logo/1/audi-off-1429726526.png');
-background-repeat: no-repeat;
+height:400px;
+text-align:;
+float: ;
+
+
 
 
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    color: black;
-}
+
+
+
 
 li {
     display: inline;

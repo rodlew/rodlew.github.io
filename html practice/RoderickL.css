@@ -1,10 +1,10 @@
 body
 {
-height:200px;
+height:800px;
 font-family: 'Bungee Inline', cursive; 
 text-align:center;
-background-image:;
-background-color:rgb(173,255,47);
+background-image:url("https://s-media-cache-ak0.pinimg.com/originals/85/b3/31/85b3314cd32bc6f3bd59f21e9dbec0d0.jpg");
+background-color:rgb();
 background-repeat:no-repeat; 
 background-size:;
 background-position: 
@@ -15,6 +15,8 @@ background-position:
 .bigname{
 	font-size:9em;
 	line-height: 15pt;
+	margin:0 auto;
+	margin-top: 150px;
 
 
 
@@ -28,7 +30,7 @@ position:relative;
   width: 100%;
   bottom:0;
   background-color:;
-  opacity:.4;
+  opacity:.8;
 
 } 
 
