@@ -1,18 +1,28 @@
 body{
 height:;
-font-family: 'roboto', cursive; 
+font-family: 'roboto', cursive;
 font-family: 'Oswald', sans-serif;
 text-align: center;
-background: url(); 
+background: url();
 background-repeat:no-repeat;
 background-position:center;
+<<<<<<< HEAD
 background-image:url(); 
 background-repeat:no-repeat;); 
 background-size:
+=======
+background-image:url();
+background-repeat:no-repeat;);
+background-size:cover;
+background-color:;
+}
+
+>>>>>>> origin/master
 
 }
 
 
+<<<<<<< HEAD
 #list1{display: inline;
 
 }
@@ -20,6 +30,8 @@ background-size:
 
 
 
+=======
+>>>>>>> origin/master
 
 h1{
 
@@ -32,7 +44,10 @@ h1{
     margin: 0px auto;
     }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 
 
 

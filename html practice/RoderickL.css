@@ -1,13 +1,22 @@
 body
 {
+<<<<<<< HEAD
 height:800px;
 font-family: 'Bungee Inline', cursive; 
 text-align:center;
 background-image:url("https://s-media-cache-ak0.pinimg.com/originals/85/b3/31/85b3314cd32bc6f3bd59f21e9dbec0d0.jpg");
 background-color:rgb();
 background-repeat:no-repeat; 
+=======
+height:200px;
+font-family: 'Bungee Inline', cursive;
+text-align:center;
+background-image:;
+background-color:rgb(173,255,47);
+background-repeat:no-repeat;
+>>>>>>> origin/master
 background-size:;
-background-position: 
+background-position:
 }
 
 
@@ -32,5 +41,4 @@ position:relative;
   background-color:;
   opacity:.8;
 
-} 
-
+}
