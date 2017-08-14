@@ -6,32 +6,39 @@ text-align: center;
 background: url();
 background-repeat:no-repeat;
 background-position:center;
-<<<<<<< HEAD
+
 background-image:url(); 
 background-repeat:no-repeat;); 
 background-size:
-=======
 background-image:url();
 background-repeat:no-repeat;);
 background-size:cover;
 background-color:;
 }
 
->>>>>>> origin/master
+
 
 }
 
 
-<<<<<<< HEAD
+
 #list1{display: inline;
 
 }
 
+.weather{
+position: absolute;
+
+}
+
+
+.we{
+    float: left;
+}
 
 
 
-=======
->>>>>>> origin/master
+
 
 h1{
 
@@ -44,10 +51,6 @@ h1{
     margin: 0px auto;
     }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
 
 
 
@@ -55,16 +58,20 @@ h1{
 
 
 footer{
-background:red;
-height:400px;
-text-align:;
-float: ;
-
+background:grey;
+height:280px;
+text-align:left;
+opacity: 0.9;
 
 
 
 }
 
+footer{
+   
+
+ 
+}
 
 
 
