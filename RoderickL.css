@@ -1,0 +1,70 @@
+body
+{
+
+font-family: 'Bungee Inline' ,'cursive'; 
+text-align:center;
+max-height: 100%;
+background-color:rgb(2,99,255);
+margin: 0;
+margin-bottom: 0;
+background-image:
+float:center;
+
+
+}
+
+
+
+
+
+.one{
+background-color:rgb(255,255,255);
+height: 300px;
+padding-top: 1cm;
+width: 100%;
+float: center;
+
+
+}
+.two{
+  background-color:rgb(255,255,255);
+  height:100px;
+  padding-top: 1cm;
+  
+  
+  
+}
+
+
+  
+.bigname{
+	font-size:7em;
+	line-height: 5px;
+  height: 
+	
+}
+
+
+.front{
+  color:black;
+  font-size:30pt;
+}
+
+
+
+footer
+{
+position:relative;
+  height: 100px;
+  width: 100%;
+  bottom:;
+  background-color:darkgray;
+  opacity:0.9;
+  color:white;
+  text-align: left;
+  font-size: 10pt;
+  float: left;
+}
+  
+
+
