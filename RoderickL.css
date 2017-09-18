@@ -3,7 +3,11 @@ body
 
 font-family: 'Bungee Inline' ,'cursive'; 
 text-align:center;
+<<<<<<< HEAD
 height: 200px;
+=======
+max-height:400px;
+>>>>>>> origin/master
 background-color:rgb(2,99,255);
 margin: 0;
 margin-bottom: 0;
