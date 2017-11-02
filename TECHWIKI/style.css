@@ -12,7 +12,18 @@ background-position:center;
 
 
 
+.one {
+    width: 15%;
+    height: 200px;
+    background: red;
+    float: left;
 }
+.two {
+    margin-left: 15%;
+    height: 200px;
+    background: black;
+}
+
 
 
 
@@ -29,6 +40,7 @@ position: absolute;
 .we{
     float: ;
 }
+
 
 
 
@@ -62,11 +74,11 @@ opacity: 0.9;
 
 }
 
-footer{
-   
 
  
-}
+
+ 
+
 
 
 
