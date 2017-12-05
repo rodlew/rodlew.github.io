@@ -1,11 +1,8 @@
 body{
-height:;
+height:1000px;
 font-family: 'roboto', cursive;
 font-family: 'Oswald', sans-serif;
-text-align: center;
-background: url();
-background-repeat:no-repeat;
-background-position:center;
+text-align: left;
 
 
 }
@@ -24,7 +21,11 @@ background-position:center;
     background: black;
 }
 
-
+.left{
+    text-align: left;
+    padding-left: 30px;
+    padding-bottom: -5px
+}
 
 
 #list1{display: inline;
@@ -41,19 +42,22 @@ position: absolute;
     float: ;
 }
 
+.nav{
+    float: left;
+}
 
 
-
+}
 
 
 h1{
 
     text-align:left;
     color: rgb(255,0,0);
-    font-size: 9em;
-    background-image: url('http://wvbadbuildings.org/wp-content/uploads/2015/02/tools.jpg');
-    background-size:100%;
-    height:400px;
+    font-size: 1em;
+    background-image: url(http://wvbadbuildings.org/wp-content/uploads/2015/02/tools.jpg');
+    background-size:50px;
+    height:px
     margin: 0px auto;
     background-repeat: no-repeat;
     }
