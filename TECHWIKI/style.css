@@ -1,18 +1,51 @@
 
 *{
   font-family: arial,verdana,sans-serif;
-  color: #667182; text-align: center;
-  background-color:
+  color: #667182; 
+  background-image: url()
+  background-size: auto;
+  
+}
+
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left:16px;
+    font-size: 40px;
+    color: white;
+}
+.black{
+background-color:rgb(151,157,163);
+
+}
+
+/*text politics*/
+.text{
+  text-align:left;
+  line-height: 1.9;
 }
 
 #nav,#feature, .article,#footer{
-  background-color: #162a49; margin-top: 20px;
-  padding: 10px 0px 5px 0px;
+  background-color: #162a49; margin-top: 40px;
+  padding: 4px 0px 5px 0px;
+  position: static;
+  text-align: left;
+  
 }
 
 #feature, .article{
-  height: 100px;
+  height: 200px;
+
 }
+
 
 li{
   display: inline;
@@ -21,8 +54,15 @@ li{
 body{
 font-family: 'roboto', cursive;
 font-family: 'Oswald', sans-serif;
-margin: auto;
-    width: 90%;
+margin:auto;
+  width:100%;
+    background-image:
+    align:center;
+
+  
+    
+    
+  
     
 }
 
@@ -44,26 +84,31 @@ margin: auto;
  .a{
    width:500px;
    margin: 0 auto;
-   text-align: left;
-   position: absolute;
+   text-align:center;
+   position:static;
                     
                     
 
                    }
 
 
+h1{
+  color:rgb(51, 204, 51);
+}
 
 
-
-
+.article{
+  float: center;
+}
 
 footer{
-background:WHITE;
-height:280px;
-width:100%;
+background:black;
+height:28px;
 text-align: center;
 position:relative;
-
+float: left;
+padding: 15px 0;
+min-width:100%;
 
 }
 /*NAV!!!!*/
