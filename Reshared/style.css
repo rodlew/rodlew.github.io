@@ -103,12 +103,14 @@ h1{
 
 footer{
 background:black;
-height:28px;
+height:200px;
 text-align: center;
 position:relative;
 float: left;
 padding: 15px 0;
 min-width:100%;
+color: green;
+background:#162a49;
 
 }
 /*NAV!!!!*/
@@ -121,4 +123,27 @@ span{
 }
 
 /*NAV!!!!*/
+.container {
+    position:static;
+    text-align:left;
+    color:black;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    
+}
 
+/* Bottom left text */
+.bottom-left {
+    position:absolute;
+    bottom: 50px;
+    left:70px;
+    font-size: 40px;
+    color:black;
+    font-weight:bolder;
+     background:white;
+     opacity:0.7;
+
+
+
+}

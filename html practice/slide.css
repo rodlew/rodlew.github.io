@@ -1,0 +1,40 @@
+#main {overflow:auto;
+  padding-bottom: 50px;}  /* must be same height as the footer */
+
+#footer {position: relative;
+  margin-top: -50px; /* negative value of footer height */
+  height: 50px;
+  clear:both;
+} 
+
+#two_column {
+    background-color: red;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: grey;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: grey;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+@media  (max-width: 800px) 
+}

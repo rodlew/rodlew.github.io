@@ -1,0 +1,319 @@
+*{
+  font-family: 'Slabo 27px', sans-serif;
+
+  
+  
+}
+
+/* Container holding the image and the text */
+.container {
+    position:static;
+    text-align:left;
+    color:black;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    
+}
+
+/* Bottom left text */
+.bottom-left {
+    position:absolute;
+    bottom: 50px;
+    left:70px;
+    font-size: 40px;
+    color:black;
+    font-weight:bolder;
+     background:white;
+     opacity:0.7;
+
+
+
+}
+.black{
+background-color:rgb(128,128,128);
+
+}
+
+.column1, .column2, .column3{
+  width:30%;
+  float: left;
+  margin: 1%;
+  border-spacing: 50px 50px;
+  border-collapse: collapse;
+  margin-bottom: 25px;
+  display: inline;
+
+
+
+}
+
+.space{
+  max-width: 100%;
+}
+
+.article3{
+  margin-right: 0%;
+}
+
+
+/*text politics*/
+.text{
+  text-align:left;
+  line-height: 1.9;
+}
+
+#nav{
+  background-color: #162a49; margin-top: 1px;
+  padding: 60px 0px 20px 0px;
+  position:static;
+  text-align: left;
+  
+}
+/*lifestyle landing page*/
+
+.w3-container1{
+float: left;
+width:;
+height: 400px;
+margin-bottom: 3em;
+padding-top: 3em;
+padding-left: 3em;
+
+
+
+
+}
+
+.w3-container2{
+  
+float: left;
+background-color:
+width: 1120px;
+height: 400px;
+margin-bottom: 3em;
+padding-top: 3em;
+padding-left: 3em;
+position: relative;
+
+
+  
+}
+
+.w3-container3{
+
+float:left;
+background-color: 
+width: 1120px;
+height: 400px;
+margin-bottom: 3em;
+margin-top: 1em;
+padding-top: 1px;
+padding-left: 3em;
+
+
+}
+.w3-container4{
+float: left;
+background-color: 
+width: 1120px;
+height: 400px;
+margin-bottom: 3em;
+padding-top: 3px;
+padding-left: 3em;
+
+
+}
+
+.w3-container5{
+float: left;
+background-color: 
+width: 1120px;
+height: 400px;
+margin-bottom: 1px;
+padding-top: 1px;
+padding-left: 3em;
+
+
+}
+.fr1{
+  float:right;
+  margin-right:80px;
+  margin-top:4px;
+  text-align:left;
+}
+
+
+.fr2{
+  float:right;
+  margin-left:25px;
+  margin-bottom:10px;
+  font-size:28px;
+  line-height:1;
+
+  
+  text-align:left;
+  
+  
+  
+
+}
+
+.fr3{
+  float:right;
+  margin-left:25px;
+  margin-bottom: 1px;
+  font-size: 25px;
+  text-align: left;
+
+
+}
+
+.fr4{
+  float:right;
+  margin-left:25px;
+  margin-bottom: 1px;
+  text-align: left;
+  line-height: 1;
+
+}
+.fr5{
+  float:right;
+  margin-left:25px;
+  text-align: left;
+
+
+}
+
+/*lifestyle landing page*/
+
+.h3{
+background-color: green;
+}
+
+
+body{
+font-family: 'roboto', cursive;
+font-family: 'Oswald', sans-serif;
+height:1800px;
+text-align:left;
+padding-bottom:1em;
+
+
+
+
+}
+
+.re-c{
+  text-decoration: none; color: solid-black;
+}
+
+
+}
+
+.left{
+    text-align: left;
+    padding-left: 90px;
+    padding-bottom: -5px;
+    position: fixed;
+}
+
+
+ .a{
+   width:500px;
+   margin: 0 auto;
+   text-align:center;
+   position:static;
+                    
+                    
+
+                   }
+
+
+h1{
+  color:rgb(52,175,97);
+}
+
+
+
+
+footer{
+background:#162a49;
+height:200px;
+text-align: center;
+position:relative;
+float: left;
+padding: 1px 0;
+min-width:100%;
+color:green;
+display: inline-block;
+margin: 0 10px;
+
+}
+
+.list
+{
+height: 200px;
+display: table-cell;
+vertical-align: middle;
+border: 1px solid black;
+flex-wrap: wrap;
+}
+
+.dd{
+float:right;
+
+}
+
+/*NAV!!!!*/
+
+ul{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   background-color:white;
+   overflow: hidden;
+
+}
+li{
+  float: left;
+}
+
+li a{
+  display: block;
+  color:darkgrey;
+  text-align: center;
+  padding: 15px 18px;
+  text-decoration: none;
+
+}
+
+li a:hover{
+background-color: darkred;
+}
+
+.righty{
+  float: right;
+}
+
+/*NAV!!!!*/
+
+#content{
+  overflow: auto;
+}
+
+.mm{
+  float: right;
+
+}
+.mm1{
+  float: left;
+  word-wrap:pre;
+}
+
+.boxed {
+  border: 9px solid black ;
+  width: 500px;
+  height:500px;
+  float: right;
+}
