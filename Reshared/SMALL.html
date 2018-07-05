@@ -1,0 +1,41 @@
+<?php
+
+  $bg = array('http://www.beachholidayguide.co.uk/blog/wp-content/uploads/2008/12/carribean-beach-holiday.jpg,http://2.bp.blogspot.com/-0w_SXcvQNEk/UQfUiVvmExI/AAAAAAAAgxY/kgWHGsgh0w8/s1600/Mountain-Landscapes-14.jpg' ); // array of filenames
+
+  $i = rand(0, count($bg)-1); // generate random number size of the array
+  $selectedBg = "$bg[$i]"; // set variable equal to which random filename was chosen
+?>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Small</title>
+<style type="text/css">
+     body{ background: url('http://2.bp.blogspot.com/-0w_SXcvQNEk/UQfUiVvmExI/AAAAAAAAgxY/kgWHGsgh0w8/s1600/Mountain-Landscapes-14.jpg');
+     	 background-repeat:no-repeat;
+     
+
+     }
+
+</head>
+<body>
+	
+
+
+	</style>
+     
+	<form action="/action_page.php" style="border: 20px solid white;height:300px;width:350px;float:left;margin-top:150px;margin-left:100px">
+	Last name:<br>
+	<input style="width:250px;height:40px"    type="text" name="LastName" value="Mouse"><br>
+	<br>
+	Last name:<br>
+	<input type="text" name="LastName" value="Mouse"><br>
+
+
+
+
+	</form>
+</body>
+</html>

@@ -29,7 +29,7 @@ background-color:rgb(151,157,163);
 
 /*text politics*/
 .text{
-  text-align:left;
+  text-align:right;
   line-height: 1.9;
 }
 
@@ -56,9 +56,8 @@ font-family: 'roboto', cursive;
 font-family: 'Oswald', sans-serif;
 margin:auto;
   width:100%;
-    background-image:
-    align:center;
-
+  text-align:left;
+background: url(') no-repeat;)
   
     
     
@@ -147,3 +146,8 @@ span{
 
 
 }
+
+
+
+
+

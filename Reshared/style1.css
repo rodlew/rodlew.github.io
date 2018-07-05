@@ -1,5 +1,5 @@
 *{
-  font-family: 'Slabo 27px', sans-serif;
+  font-family: 'Slabo 50px', sans-serif;
 
   
   
@@ -11,7 +11,9 @@
     text-align:left;
     color:black;
     margin-left: 50px;
-    margin-right: 50px;
+    margin-right:100px;
+    width:1000px;
+    height: auto;
     
     
 }
@@ -19,14 +21,19 @@
 /* Bottom left text */
 .bottom-left {
     position:absolute;
-    bottom: 50px;
-    left:70px;
-    font-size: 40px;
-    color:black;
+    bottom:-60px;
+    left:60px;
+
+    font-size: 30px;
+    color:rgb(190,50,20);
     font-weight:bolder;
      background:white;
-     opacity:0.7;
-
+     opacity:0.9;
+     width:500px;
+     
+     top:480px;
+     height:140px;
+      right: :250px;
 
 
 }
@@ -36,13 +43,14 @@ background-color:rgb(128,128,128);
 }
 
 .column1, .column2, .column3{
-  width:30%;
-  float: left;
+  width:380px;
+  
   margin: 1%;
-  border-spacing: 50px 50px;
-  border-collapse: collapse;
-  margin-bottom: 25px;
-  display: inline;
+  border-spacing:90px 9px;
+ margin-top:20px;
+  margin-bottom:9px;
+  display:inline-block;
+  border-collapse: separate;
 
 
 
@@ -74,11 +82,13 @@ background-color:rgb(128,128,128);
 
 .w3-container1{
 float: left;
-width:;
+background-color:
+width: 1120px;
 height: 400px;
-margin-bottom: 3em;
+margin-bottom: 6em;
 padding-top: 3em;
 padding-left: 3em;
+position: relative;
 
 
 
@@ -91,7 +101,7 @@ float: left;
 background-color:
 width: 1120px;
 height: 400px;
-margin-bottom: 3em;
+margin-bottom: 6em;
 padding-top: 3em;
 padding-left: 3em;
 position: relative;
@@ -106,9 +116,9 @@ float:left;
 background-color: 
 width: 1120px;
 height: 400px;
-margin-bottom: 3em;
+margin-bottom: 6em;
 margin-top: 1em;
-padding-top: 1px;
+padding-top: 3px;
 padding-left: 3em;
 
 
@@ -116,9 +126,9 @@ padding-left: 3em;
 .w3-container4{
 float: left;
 background-color: 
-width: 1120px;
+width: px;
 height: 400px;
-margin-bottom: 3em;
+margin-bottom: 6em;
 padding-top: 3px;
 padding-left: 3em;
 
@@ -130,29 +140,51 @@ float: left;
 background-color: 
 width: 1120px;
 height: 400px;
-margin-bottom: 1px;
+margin-bottom: 6em;
 padding-top: 1px;
 padding-left: 3em;
 
 
 }
-.fr1{
-  float:right;
-  margin-right:80px;
-  margin-top:4px;
-  text-align:left;
+
+.w3-container6{
+
+float:left;
+background-color: 
+width: 1120px;
+height: 400px;
+margin-bottom: 6em;
+margin-top: 1em;
+padding-top: 3px;
+padding-left: 3em;
+
+
 }
+.fr1{
+
+  float:right;
+  margin-left:25px;
+  margin-bottom:1px;
+  font-size:25px;
+  font-weight: bold;
+ width:350px;
+ text-align: left;
+  
+  
+}
+
+
+
 
 
 .fr2{
   float:right;
   margin-left:25px;
-  margin-bottom:10px;
-  font-size:28px;
-  line-height:1;
-
-  
-  text-align:left;
+  margin-bottom:1px;
+  font-size:25px;
+  font-weight: bold;
+ width:350px;
+ text-align: left;
   
   
   
@@ -161,11 +193,14 @@ padding-left: 3em;
 
 .fr3{
   float:right;
-  margin-left:25px;
+  margin-left:30px;
   margin-bottom: 1px;
-  font-size: 25px;
-  text-align: left;
+  font-size:25px;
+ text-align: left;
+  
+  width: 350px;
 
+font-weight: bold;
 
 }
 
@@ -174,15 +209,33 @@ padding-left: 3em;
   margin-left:25px;
   margin-bottom: 1px;
   text-align: left;
-  line-height: 1;
+  font-weight: bold;
+  font-size:25px;
+  width: 350px;
 
 }
 .fr5{
   float:right;
-  margin-left:25px;
+  margin-left:30px;
+  text-align:block;
+  width: 350px;
+  font-size: 25px;
   text-align: left;
+font-weight: bold;
 
+}
 
+.fr6{
+
+  float:right;
+  margin-left:25px;
+  margin-bottom:1px;
+  font-size:25px;
+  font-weight: bold;
+ width:350px;
+ text-align: left;
+  
+  
 }
 
 /*lifestyle landing page*/
@@ -198,7 +251,9 @@ font-family: 'Oswald', sans-serif;
 height:1800px;
 text-align:left;
 padding-bottom:1em;
-
+margin-left:2px;
+margin-right:50px;
+width:100%;
 
 
 
@@ -218,20 +273,21 @@ padding-bottom:1em;
     position: fixed;
 }
 
-
+/*poilitics*/
  .a{
-   width:500px;
+   width:3000px;
    margin: 0 auto;
    text-align:center;
    position:static;
-                    
+         
                     
 
                    }
 
-
+/*politics*/
 h1{
   color:rgb(52,175,97);
+  
 }
 
 
@@ -243,11 +299,11 @@ height:200px;
 text-align: center;
 position:relative;
 float: left;
-padding: 1px 0;
-min-width:100%;
+padding: 15px 0;
+width:100%;
 color:green;
-display: inline-block;
-margin: 0 10px;
+
+
 
 }
 
