@@ -173,7 +173,7 @@ background-color:rgb(128,128,128);
     transition: 0.3s;
     width:350px;
     float:left;
-    margin:1%;
+    margin-left:4%;
     font-size:25px;
     height:400px;
 
@@ -183,7 +183,7 @@ background-color:rgb(128,128,128);
     transition: 0.3s;
     width:350px;
     float:left;
-    margin:1%;
+    margin-left:4%;
     font-size:25px;
     height:400px;
 
@@ -195,7 +195,7 @@ background-color:rgb(128,128,128);
     transition: 0.3s;
     width:350px;
     float:left;
-    margin:1%;
+    margin-left:4%;
     font-size:25px;
     height:400px;}
 
