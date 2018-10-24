@@ -18,7 +18,11 @@
   vertical-align: middle;
   z-index: 99;
 }
- 
+ h2{
+
+  color: red;
+  font-size: 80px;
+ }
 .menu-btn span {
   display: block;
   width: 19px;
