@@ -184,6 +184,7 @@ background-color:rgb(128,128,128);
     font-size:25px;
     height:400px;
     margin-top: 40px;
+    
 
 }
 .card2 {
@@ -195,6 +196,7 @@ background-color:rgb(128,128,128);
     font-size:25px;
     height:400px;
     margin-top: 40px;
+    
   
 }
 
@@ -207,6 +209,7 @@ background-color:rgb(128,128,128);
     font-size:25px;
     height:400px;
     margin-top: 40px;
+    
   }
 
 
@@ -217,9 +220,13 @@ background-color:rgb(128,128,128);
     transition: 0.3s;
     width:600px;
     float:left;
-    margin:1%;
+    margin-left:4%;
     font-size:25px;
-    height:400px;}
+    height:700px;
+    margin-top: 5%;
+
+  }
+
 
 .next{
   background:
@@ -235,6 +242,7 @@ background-color:rgb(128,128,128);
     padding: 0px 0px 0px 0px;
     width: auto;
     height: auto;
+    margin: 5%;
     
 }
 /*test*/
