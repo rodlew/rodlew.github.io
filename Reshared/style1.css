@@ -68,16 +68,8 @@ li .sub-menu{
     color:black;
     margin-left: 50px;
     margin-right:50px;
-    width:
-     height:
-    background-image: url("https://images.thestar.com/content/dam/thestar/news/world/2017/08/15/donald-trump-calls-out-alt-left-doubles-down-on-remarks-blaming-both-sides-for-charlottesville-violence/john-kelly2.jpg.size-custom-crop.850x0-0.0.1200.799.jpg");
-    background-repeat:no-repeat;
-    background-size: auto;
-
     
-    
-    
-}
+    }
 /*sidenave*/
 .sidenav {
     height: 100%; /* 100% Full-height */
@@ -140,22 +132,22 @@ img{
 
 /* Bottom left text */
 .bottom-left {
-    position:static;
+    position:absolute;
   bottom: 230px;
   left:0;
 
     font-size:60px;
-    color:black;
+    color:white;
     font-weight:bolder;
      background:;
      opacity:0.9;
      max-width:1000px;
      bottom:50px;
+     margin-left:2%;
+     padding: 0px;
 
-     
 
-
-}
+   }
 .black{
 background-color:rgb(128,128,128);
 
