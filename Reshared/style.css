@@ -273,16 +273,18 @@ background-color:rgb(128,128,128);
   max-width: 100%;
 }
 
-.article3{
-  margin-right: 0%;
+.article{
+  margin-right: 50%;
 }
 
 
 /*text politics*/
 .text{
-  text-align:left;
-  line-height: 1.9;
+  text-align:center;
+  line-height: 1.1;
+  margin-left: 20%;
 }
+/*text politext*/
 
 #nav{
   background-color: #162a49; margin-top: 1px;
@@ -293,339 +295,7 @@ background-color:rgb(128,128,128);
 }
 /*lifestyle landing page*/
 
-.w3-container1{
-float: left;
-background-color:
-width:auto;
-height: auto;
-margin-bottom:30px;
-padding-top: 1px;
-padding-left:0px;
-position: relative;
-margin-top: 50px;
 
-
-
-
-}
-
-.w3-container2{
-  
-float: left;
-
-width:auto;
-height:auto;
-margin-bottom:30px;
-padding-top: 1px;
-padding-left: 3em;
-position: relative;
-margin-top: 50px;
-
-
-  
-}
-
-.w3-container3{
-
-float:left;
-background-color: 
-width:auto;
-height:auto;
-margin-bottom:30px;
-margin-top: 50px;
-padding-top: 1px;
-padding-left: 3em;
-
-
-}
-.w3-container4{
-float: left;
-background-color: 
-width:auto;
-height:auto;
-margin-bottom:0px;
-padding-top: 1px;
-padding-left: 3em;
-margin-top: 50px;
-
-
-}
-
-.w3-container5{
-float: left;
-background-color: 
-width:auto;
-height: auto;
-margin-bottom:45px;
-padding-top: 1px;
-padding-left: 3em;
-margin-top: 50px;
-
-
-}
-
-.w3-container6{
-
-float:left;
-background-color: 
-width: auto;
-height: auto;
-margin-bottom:0px;
-margin-top: 50px;
-padding-top: 50px;
-padding-left: 3em;
-
-
-}
-
-
-.w3-container7{
-
-float:left;
-background-color: 
-width: auto;
-height:auto;
-margin-bottom:0px;
-margin-top: 30px;
-padding-top: 1px;
-padding-left: 3em;
-margin-top: 50px;
-
-
-}
-
-.w3-container8{
-
-float:left;
-background-color: 
-width: auto;
-height: auto;
-margin-bottom:0px;
-margin-top: 30px;
-padding-top: 1px;
-padding-left: 3em;
-margin-top: 50px;
-
-
-}
-
-.w3-container9{
-
-float:left;
-background-color: 
-width: auto;
-height: auto;
-margin-bottom:0px;
-margin-top: 30px;
-padding-top: 1px;
-padding-left: 3em;
-margin-top: 50px;
-
-
-}
-
-.w3-container10{
-
-float:left;
-background-color: 
-width: auto;
-height: auto;
-margin-bottom:0px;
-margin-top: 30px;
-padding-top: 4px;
-padding-left: 3em;
-margin-top: 50px;
-
-
-}
-
-.w3-container11{
-
-float:left;
-background-color: 
-width: auto;
-height: auto;
-margin-bottom:0px;
-margin-top: 30px;
-padding-top: 4px;
-padding-left: 3em;
-margin-top: 50px;
-}
-
-
-
-/*text for w3-conatiners*/
-.fr1{
-
-  float:right;
-  margin-right:230px;
-  margin-bottom:1px;
-  font-size:35px;
-  font-weight: bold;
- width:350px;
- text-align: left;
- margin-top:-40px;
-}
-
-
-
-a:hover {
-    color: red;
-}
-
-.fr2{
-  float:right;
-  margin-left:25px;
-  margin-bottom:1px;
-  font-size:35px;
-  font-weight: bold;
- width:350px;
- text-align: left;
- background: 
-  
-  
-  
-
-}
-
-
-.fr3{
-  float:right;
-  margin-left:30px;
-  margin-bottom: 1px;
-  font-size:35px;
- text-align: left;
-  
-  width: 350px;
-
-font-weight: bold;
-max-width: 100%;
-height: auto;
-
-}
-
-.fr4{
-  float:right;
-  margin-left:25px;
-  margin-bottom: 1px;
-  text-align: left;
-  font-weight: bold;
-  font-size:35px;
-  width: 350px;
-  height:100px;
-
-}
-.fr5{
-  float:right;
-  margin-left:30px;
-  text-align:block;
-  width: 350px;
-  font-size: 35px;
-  text-align: left;
-font-weight: bold;
-
-}
-
-.fr6{
-
-  float:right;
-  margin-left:25px;
-  margin-bottom:1px;
-  font-size:35px;
-  font-weight: bold;
- width:350px;
- text-align: left;
-  
-  
-}
-
-.fr7{
-
-  float:right;
-  margin-left:25px;
-  margin-bottom:1px;
-  font-size:35px;
-  font-weight: bold;
- width:350px;
- text-align: left;
-  
-  
-}
-
-.fr8{
-
-  float:right;
-  margin-left:25px;
-  margin-bottom:1px;
-  font-size:35px;
-  font-weight: bold;
- width:350px;
- text-align: left;
-  
-  
-}
-
-
-.fr9{
-
-  float:right;
-  margin-left:25px;
-  margin-bottom:1px;
-  font-size:35px;
-  font-weight: bold;
- width:350px;
- text-align: left;
-  }
-
-
-  .fr10{
-
-  float:right;
-  margin-left:25px;
-  margin-bottom:1px;
-  font-size:35px;
-  font-weight: bold;
- width:350px;
- text-align: left;
-  }
-
-  .fr11{
-
-  float:right;
-  margin-left:25px;
-  margin-bottom:1px;
-  font-size:35px;
-  font-weight: bold;
- width:350px;
- text-align: left;
-
-
-   } 
-
-   /*text for w3-container*/
-
-
-/*lifestyle landing page*/
-
-.h3{
-background-color: green;
-}
-
-
-body{
-font-family: 'roboto', cursive;
-font-family: 'Oswald', sans-serif;
-height:auto;
-text-align:left;
-padding-bottom:1em;
-margin-left:
-width:auto;
-background-color:
-
-
-
-
-}
 
 .re-c{
   text-decoration: none; color: solid-black;
@@ -643,7 +313,7 @@ background-color:
 
 /*poilitics*/
  .a{
-   width:3000px;
+   width:800px;
    margin: 0 auto;
    text-align:center;
    position:static;
@@ -761,13 +431,13 @@ background-color:;
 
 
 /*Display 3 per row for medium displays (like mobile phones in landscape or smaller tablets)*/
-@media screen and (min-width: 150em) {
+@media screen and (min-width: 90em) {
   .related-products li {
     width: 33.3333333%;
   }
 }
 /*Display 6 to a row for large displays (like medium tablets and up) */
-@media screen and (min-width: 200px) {
+@media screen and (min-width: 50px) {
   .related-products li {
     width: 16.6666667%;
   }
@@ -775,7 +445,7 @@ background-color:;
 
 
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 600px) {
     body {
         background-color:white;
     }
@@ -783,13 +453,13 @@ background-color:;
 
 @media only screen and (max-width: px){
   .fr1,.fr2,.fr3,.fr4,.fr5,.fr6,.fr7,.fr8,.fr9,.fr10,.bottom-left,.fr11{
-    font-size: 15px;
+    font-size: 20px;
   }
 }
 
 @media only screen and(min-width: 1px){
   body{
-  width: 1000px;
+  width: 200px;
   }
 }
 
