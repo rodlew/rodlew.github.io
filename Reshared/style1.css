@@ -323,11 +323,11 @@ float: left;
 background-color:
 width:auto;
 height: auto;
-margin-bottom:30px;
+margin-bottom:auto;
 padding-top: 1px;
 padding-left: 3em;
 position: relative;
-margin-top: 50px;
+margin-top:auto;
 
 
 
@@ -340,11 +340,11 @@ float: left;
 
 width:auto;
 height:auto;
-margin-bottom:30px;
+margin-bottom:auto;
 padding-top: 1px;
 padding-left: 3em;
 position: relative;
-margin-top: 50px;
+margin-top:auto;
 
 
   
@@ -356,9 +356,9 @@ float:left;
 background-color: 
 width:auto;
 height:auto;
-margin-bottom:30px;
-margin-top: 50px;
-padding-top: 1px;
+margin-bottom:auto;
+margin-top:auto;
+padding-top: auto;
 padding-left: 3em;
 
 
@@ -368,10 +368,10 @@ float: left;
 background-color: 
 width:auto;
 height:auto;
-margin-bottom:0px;
-padding-top: 1px;
+margin-bottom:auto;
+padding-top:auto;
 padding-left: 3em;
-margin-top: 50px;
+margin-top:auto;
 
 
 }
@@ -381,10 +381,10 @@ float: left;
 background-color: 
 width:auto;
 height: auto;
-margin-bottom:45px;
-padding-top: 1px;
+margin-bottom:auto;
+padding-top:auto;
 padding-left: 3em;
-margin-top: 50px;
+margin-top:auto;
 
 
 }
@@ -395,9 +395,9 @@ float:left;
 background-color: 
 width: auto;
 height: auto;
-margin-bottom:0px;
-margin-top: 50px;
-padding-top: 50px;
+margin-bottom:auto;
+margin-top: auto;
+padding-top:auto;
 padding-left: 3em;
 
 
@@ -410,11 +410,11 @@ float:left;
 background-color: 
 width: auto;
 height:auto;
-margin-bottom:0px;
-margin-top: 30px;
-padding-top: 1px;
+margin-bottom:auto;
+margin-top:auto;
+padding-top: auto;
 padding-left: 3em;
-margin-top: 50px;
+margin-top: auto;
 
 
 }
@@ -425,11 +425,11 @@ float:left;
 background-color: 
 width: auto;
 height: auto;
-margin-bottom:0px;
-margin-top: 30px;
+margin-bottom:auto;
+margin-top:auto;
 padding-top: 1px;
 padding-left: 3em;
-margin-top: 50px;
+margin-top: auto;
 
 
 }
@@ -440,11 +440,11 @@ float:left;
 background-color: 
 width: auto;
 height: auto;
-margin-bottom:0px;
+margin-bottom:auto;
 margin-top: 30px;
-padding-top: 1px;
+padding-top:auto;
 padding-left: 3em;
-margin-top: 50px;
+margin-top:auto;
 
 
 }
@@ -455,11 +455,11 @@ float:left;
 background-color: 
 width: auto;
 height: auto;
-margin-bottom:0px;
+margin-bottom:auto;
 margin-top: 30px;
-padding-top: 4px;
+padding-top:auto;
 padding-left: 3em;
-margin-top: 50px;
+margin-top:auto;
 
 
 }
@@ -470,11 +470,11 @@ float:left;
 background-color: 
 width: auto;
 height: auto;
-margin-bottom:0px;
+margin-bottom:auto;
 margin-top: 30px;
-padding-top: 4px;
+padding-top:auto;
 padding-left: 3em;
-margin-top: 50px;
+margin-top:auto;
 }
 
 .w3-container12{
@@ -483,11 +483,11 @@ float:left;
 background-color: 
 width: auto;
 height: auto;
-margin-bottom:0px;
+margin-bottom:auto;
 margin-top: 30px;
-padding-top: 4px;
+padding-top:auto;
 padding-left: 3em;
-margin-top: 50px;
+margin-top:auto;
 }
 
 .fr1{
