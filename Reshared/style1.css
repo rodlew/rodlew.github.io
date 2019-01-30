@@ -634,6 +634,18 @@ font-weight: bold;
  width:350px;
  text-align: left;
    } 
+
+
+    .fr12{
+
+  float:right;
+  margin-left:25px;
+  margin-bottom:1px;
+  font-size:35px;
+  font-weight: bold;
+ width:350px;
+ text-align: left;
+   } 
 /*lifestyle landing page*/
 
 .h3{
