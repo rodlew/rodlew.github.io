@@ -72,6 +72,34 @@ li .sub-menu{
 }
 
 
+.fr1{
+
+  float:right;
+  margin-right:270px;
+  margin-bottom:1px;
+  font-size:35px;
+  font-weight: bold;
+ width:350px;
+ text-align: left;
+ 
+}
+
+.w3-container1{
+float:right;
+background-color:
+width:auto;
+height: auto;
+margin-bottom:auto;
+padding-top: 1px;
+padding-left:25px;
+position: relative;
+margin-top:auto;
+
+
+
+
+}
+
 /* Container holding the image and the text */
 .container {
     position:relative;
