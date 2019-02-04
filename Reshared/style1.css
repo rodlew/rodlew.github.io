@@ -73,8 +73,8 @@ li .sub-menu{
     position:relative;
     text-align:left;
     color:black;
-    margin-left: 
-    margin-right:
+    margin:2em;
+    
 
     
     }
@@ -184,7 +184,7 @@ background-color:rgb(128,128,128);
     font-size:25px;
     height:400px;
     margin-top: 40px;
-    
+     margin: 2em;
 
 }
 .card2 {
@@ -196,7 +196,7 @@ background-color:rgb(128,128,128);
     font-size:25px;
     height:400px;
     margin-top: 40px;
-    
+     margin: 2em;
   
 }
 
@@ -209,7 +209,7 @@ background-color:rgb(128,128,128);
     font-size:25px;
     height:400px;
     margin-top: 40px;
-    
+     margin: 2em;
   }
 
 
@@ -224,6 +224,7 @@ background-color:rgb(128,128,128);
     font-size:25px;
     height:400px;
     margin-top: 5%;
+    margin: 2em;
 
   }
 
@@ -236,7 +237,7 @@ background-color:rgb(128,128,128);
     font-size:25px;
     height:400px;
     margin-top: 5%;
-
+ margin: 2em;
   }
 .card6 {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -247,7 +248,7 @@ background-color:rgb(128,128,128);
     font-size:25px;
     height:400px;
     margin-top: 5%;
-
+      margin: 2em;
   }
 
 .next{
@@ -261,7 +262,7 @@ background-color:rgb(128,128,128);
 }
 
 .container1 {
-    padding: 0px 0px 0px 0px;
+    padding: 3px 3px 3px 3px;
     width: auto;
     height: auto;
     margin: 5%;
