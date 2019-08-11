@@ -1,0 +1,19 @@
+body{
+
+	font-family: 'Staatliches', sans-serif;
+
+font-family: 'Audiowide', cursive;
+font-family: 'Libre Baskerville', serif;
+/*background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/06/2e/71/23/empty-newsroom-on-a-sunday.jpg");*/
+background-repeat: no-repeat;
+background-size: cover;
+background-color: 
+text-align:left;
+}
+
+.a{
+   width:3000px;
+   margin: 0 auto;
+   text-align:center;
+   position:static;
+         
