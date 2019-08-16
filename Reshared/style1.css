@@ -17,6 +17,13 @@ background: cover no-repeat;
   
 }
 
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+  float: right;
+  margin: 20%;
+  }
+
 .li{
   float: right;
 }
@@ -27,6 +34,13 @@ background: cover no-repeat;
   top: 64%;
   padding-right: 8px;
   margin-top: -0.50em;
+
+
+
+
+
+
+    
   line-height: 1.2;
   font-size: 18px;
   font-weight: 200;
@@ -357,7 +371,7 @@ width:auto;
 height:auto;
 margin-bottom:auto;
 
-padding-left: 3em;
+padding-left:px;
 position: relative;
 margin-top:auto;
 padding-top: auto;
@@ -498,14 +512,15 @@ margin-top:auto;*/
 .fr1{
 
   float:right;
-  margin-left:23px;
-  margin-bottom:auto;
+  margin-left:auto;
+  margin-bottom:20px;
   font-size:25px;
   font-weight:normal;
  width:400px;
  text-align: left;
   overflow-wrap: inherit;
   margin-top:1px;
+  line-height: 120%;
 }
 .ads{
   width: 1000px;
@@ -820,7 +835,7 @@ list-style-type: disc;
 }
 /*Display 6 to a row for large displays (like medium tablets and up) */
 @media screen and (min-width:20px) {
-  .related-products li {
+  .w3-container1 li {
     width: 1.6666667%;
   }
 }
@@ -829,7 +844,7 @@ list-style-type: disc;
 
 
 @media only screen and (max-width:1024px){
-  .fr1,.bottom-left,.w3-container1 ,.img1, body{
-    font-size:20px;margin-top:auto;margin-bottom: auto; text-align: left;
+  .fr1,.bottom-left,.w3-container1 ,.img1,.card1,.card2,.card3,.card4,.h1,body{
+    font-size:20px;margin-top:60px;margin-bottom:auto;text-align:left;margin-right:75px;
   }
 }
